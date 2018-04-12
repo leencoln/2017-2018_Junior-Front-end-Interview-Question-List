@@ -24,7 +24,7 @@
     * AJAX란 무엇인가
     * Promise란 무엇이며 코드가 어떻게 구성되어있는가
     * Promise와 Callback의 차이점은 무엇이며 각각의 장단점에 대해 설명해달라
-    * Async, Await를 사용해본 무엇이며, 사용해본 경험이 있는가
+    * Async, Await를 무엇이며, 사용해본 경험이 있는가
 
 * Vue.js
     * 면접관을 Vue.js 비사용자라고 가정하고 Vue.js에 설명하고 장단점을 말해달라
@@ -37,12 +37,12 @@
 
 * AMP
     * AMP의 개념은 무엇이고 기존의 것에 비해 장점은 무엇인가
-    * 최근의 프레임워크들과의 조합을 고려해 본적인 있는가 ex) vue-amp..
+    * 최근의 프레임워크들과의 조합을 고려해 본적이 있는가 ex) vue-amp..
 
 * 타입스크립트를 사용해본 경험이 있는가, 타입스크립트에 대한 본인의 생각과 도입시의 장점을 말해달라
 
 * 자바스크립트의 원시 타입(Primitive Data Type)은 몇가지이며, 전부 말해달라  
-    (Number, String, Boolean, Null, Undefined, (Symbol))
+    Number, String, Boolean, Null, Undefined, (Symbol)
 
 * 자바스크립트의 Number Type은 다른 언어들과 차이점이 무엇인가, 왜 하나만 존재하는가
 
@@ -60,7 +60,7 @@
     * 크롬 정도의 브라우저를 제외하곤 ES6 스펙에 대한 지원이 완벽하지 않다. 해결방법은 무엇인가
     * Babel의 기능을 한 단어로 말해달라
     * ES6 에서 추가된 스펙에 대해 아는대로 다 말해달라(let, const, rest parameter, class, arrow function...)
-    * var 와 let, const의 가장 큰 차이점은 무엇인가(function scope와 block scope의 개념에서)
+    * var 와 let, const의 가장 큰 차이점은 무엇인가 (function scope와 block scope의 개념에서)
     * Class 는 무엇이고, Prototype, fucntion의 ES5 스펙만으로 Class를 구현할수 있는가
 
 * 자료구조(Data Structure)
@@ -130,7 +130,7 @@
 * 포트폴리오를 깃허브에 업로드시 코드가 허접하더라도 README.md를 자세히 작성하여야 한다
 
 * 이력서에 개인 신상 정보를 되도록 올리지 않는 것을 추천한다.  
-    실제로 한 회사와 면접까지 진행하였으나, 후에 해당회사에 존재 여부를 확인하였으나, 아직까지 확인이 안되었다(신상정보도용, 대포통장, <--! 인신매매 --> 등의 문제가 있을수도ㄷㄷ) 로켓펀치는 채용공고 등록시에 해당 회사에 사업자 등록증등 별도의 인증 프로세서가 아직 없다고 답변하였다. 로켓펀치는 cs 대응팀 없이 메일로만 문의하라고 하라는 방식이여서, 본인이 직접 주의하여야 한다. 
+    실제로 한 회사와 면접까지 진행하였으나, 후에 해당회사에 존재 여부를 확인하였으나, 아직까지 확인이 안되었다(신상정보도용, 대포통장, <--! 인신매매 --> 등의 문제가 있을수도ㄷㄷ) 로켓펀치는 채용공고 등록시에 해당 회사에 사업자 등록증이나 별도의 인증 프로세서가 아직 없다고 답변하였다. 로켓펀치는 cs 대응팀 없이 메일로만 문의하라고 하라는 방식이여서, 본인이 직접 주의하여야 한다. 
 
 ### 개발 인터뷰 관련 링크
 
@@ -145,3 +145,9 @@
 * Awesome Interview Questions https://github.com/MaximAbramchuck/awesome-interview-questions
 
 * 프론트엔드 면접 문제 은행 https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Korean
+
+### 면접전 코드 과제 관련
+    지원하였던 회사들중 상당수는 면접전 1차적으로 서류 검토 이후에 코드 작성 과제를 제시합니다.  
+    이 부분은 문제가 될 수 있어, 위에 언급하지 않았으며, 메일로 말씀하시면 문제 되지 않는선에서 과제는 드릴 수 있습니다  
+    leencoln1861@gmail.com  
+    위에 작성된 질문 목록이 특정 회사에 대한 실례가 될 수 있어, 회사별로 정리 하지 않은점은 양해부탁드립니다.
