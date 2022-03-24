@@ -135,8 +135,8 @@
 
 * 예비 개발자들의 기술 면접 준비를 위한 자료 https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 
-* 프론트엔드 인터뷰 핸드북 https://github.com/yangshun/front-end-interview-handbook/tree/master/Translations/Korean
+* 프론트엔드 인터뷰 핸드북 https://www.frontendinterviewhandbook.com/
 
 * Awesome Interview Questions https://github.com/MaximAbramchuck/awesome-interview-questions
 
-* 프론트엔드 면접 문제 은행 https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Korean
+* 프론트엔드 면접 문제 은행 https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/main/src/translations/korean
